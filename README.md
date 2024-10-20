@@ -9,8 +9,6 @@ This project is an e-commerce landing page that displays products fetched from t
 - Display fetched products in a card format on the main page.
 - Each product displays key information, including the product image, title, and price.
 - Responsive layout that works well on all device types.
-- A modal opens when a user clicks on a product, showing product description and quantity.
-- Users can search for products using a search bar.
 - Users can add products to a cart, with the ability to increase or decrease the quantity.
 - Total price calculation based on quantity in the cart.
 - Remove items from the cart.
